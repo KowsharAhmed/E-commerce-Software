@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kowshar
-#### I am Software Developer. This is a Software.
+#### I am Software Developer. This is a Software Page.
 ![I am Software Developer. This is a Software.](https://raw.githubusercontent.com/KowsharAhmed/E-commerce-Software/main/Screenshot%202021-10-26%20at%2008-01-43%20Vue%20Js%20App.png)
 
 Hi
