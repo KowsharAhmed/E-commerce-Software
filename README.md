@@ -21,7 +21,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/KowsharAhmed/E-commerce-Software/blob/main/2021-12-22%20(24).png?raw=true)
 
 Hi
-I am a full stack software engineer. I create software with Laravel and Vue JS. 
+I am a full stack software developer. I create software with Laravel and Vue JS. 
 I can work according to your needs. I am a friendly, responsible, organized and professional person. 
 I have created more than 50 websites on different platforms. I will work on Unlimited Revision as long as you are satisfied.
 I create software with HTML, CSS, JavaScript, Vue JS, PHP, Laravel. And I create websites with Wordpress, Shopify, Magento, Prestashop, Joomla, Think PHP, Drupal.
